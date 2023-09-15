@@ -1064,16 +1064,14 @@ section{
     }
     .contact-content-con .right-contact {
       margin-left: 0;
-      /* margin-top: 2.5rem; */
     }
   
     .contact-content-con .right-contact .i-c-2 {
-      flex-direction: column;
+     flex-direction: column;
     }
   
     .contact-content-con .right-contact .i-c-2 :last-child {
       margin-left: 0;
-      /* margin-top: 1.5rem; */
     }
   
     .contact-content-con .right-contact {
@@ -1278,5 +1276,4 @@ section{
       font-size: 4rem;
     }
   }
-  
-  /*# sourceMappingURL=styles.css.map */
+
