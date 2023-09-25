@@ -346,7 +346,8 @@ section{
     object-fit: cover;
     border-radius: 10px;
     transition: all 0.4s ease-in-out;
-    filter: grayscale(100%);
+    /* filter: grayscale(100%); */
+    filter: brightness(100%);
   }
   .header-content .left-header .image img:hover {
     filter: grayscale(0);
